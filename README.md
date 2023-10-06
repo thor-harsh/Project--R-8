@@ -8,7 +8,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.<br/>
 
-In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+In this challenge, we will build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 We'll be trying to predict a classification- survival or deceased.<br/>
   
 </table>
